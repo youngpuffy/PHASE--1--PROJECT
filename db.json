@@ -1,0 +1,148 @@
+{
+    "pictures": [
+      {
+        "id": 1,
+        "name": "urban bites potato",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h86/heb/12451490070558/15255_Main.jpg",
+        "shelf number": 14,
+        "price":20,
+        "row":3
+      },
+      {
+        "id": 2,
+        "name": "tomato paste",
+        "image": "https://www.masterfoods.com.au/sites/g/files/fnmzdf1746/files/migrate-product-files/qmn4zybxd7ziucg6m8ou.png",
+        "shelf number": 16,
+        "price":4,
+        "row":12
+      },
+      {
+        "id": 3,
+        "name": "laptop 4",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/BEST-LAPTOPS-PHOTO-VIDEO-EDITING-2048px-6.jpg",
+        "shelf number": 12,
+        "price":80000,
+        "row":12
+      },
+      {
+        "id": 4,
+        "name": "predator",
+        "image": "data:image/jpeg;base64,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",
+        "shelf number": 6,
+        "price":10,
+        "row":9
+      },
+      {
+        "id": 5,
+        "name": "garnier men",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBsmFFQ6EBKwz4vQVC4YDezmKYLP0oI5mlw&s",
+        "shelf number": 1,
+        "price":3,
+        "row":26
+      },
+      {
+        "id": 6,
+        "name": "ajab fortified",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h22/he8/26798560346142/120048_main.jpg?im=Resize=480",
+        "shelf number": 12,
+        "price":3,
+        "row":24
+      },
+      {
+        "id": 7,
+        "name": "soko home baking flour",
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/568482/1.jpg?4501",
+        "shelf number": 12,
+        "price":23,
+        "row":27
+      },
+      {
+        "id": 8,
+        "name": "kara coconut milk",
+        "image": "https://d16zmt6hgq1jhj.cloudfront.net/product/3065/Kara%20Coconut%20Milk%20400ml.jpg",
+        "shelf number": 34,
+        "price":3,
+        "row":26
+      },
+      {
+        "id": 9,
+        "name": "clovers chilli sauce",
+        "image": "https://d16zmt6hgq1jhj.cloudfront.net/product/13857/1zQ0gzs7b10dwMPwDN80f0yYqhcg6OmNbeSsmxyp.jpg",
+        "shelf number": 38,
+        "price":13,
+        "row":22
+      },
+      {
+        "id": 10,
+        "name": "american garden barbeque sauce",
+        "image": "https://d16zmt6hgq1jhj.cloudfront.net/product/13620/American%20Garden%20Barbeque%20Sauce%20510g.jpeg",
+        "shelf number": 38,
+        "price":3,
+        "row":22
+      },
+      {
+        "id": 11,
+        "name": "lea & perrins worcestershire sauce",
+        "image": "https://d16zmt6hgq1jhj.cloudfront.net/product/14215/Lea%20&%20Perrins%20Worcestershire%20Sauce%20290ml.jpg",
+        "shelf number": 38,
+        "price":3,
+        "row":22
+      },
+      {
+        "id": 12,
+        "name": "royco spices",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h5a/hba/51203853844510/210956_main.jpg?im=Resize=480",
+        "shelf number": 19,
+        "price":3,
+        "row":25
+      },
+      {
+        "id": 13,
+        "name": "orange valencia",
+        "image": "https://cdn.mafrservices.com/sys-master-root/haa/hbc/26402221719582/1342_main.jpg?im=Resize=400",
+        "shelf number": 17,
+        "price":3,
+        "row":20
+      },
+      {
+        "id": 14,
+        "name": "green apple ",
+        "image": "https://cdn.mafrservices.com/sys-master-root/hd0/hef/16871920140318/1284_main.jpg?im=Resize=400",
+        "shelf number": 19,
+        "price":3,
+        "row":20
+      },
+      {
+        "id": 15,
+        "name": "mika electric kettle",
+        "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/238682/1732885204/238682_main.jpg?im=Resize=400",
+        "shelf number": 20,
+        "price":3,
+        "row":28
+      },
+      {
+        "id": 16,
+        "name": "tefal healthy easy fry",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h13/h15/49927323025438/193579_main.jpg?im=Resize=400",
+        "shelf number": 20,
+        "price":3,
+        "row":28
+      },
+      {
+        "id": 17,
+        "name": "beko twin tub washing machine",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h7d/h29/46269806411806/182748_main.jpg?im=Resize=400",
+        "shelf number": 12,
+        "price":3,
+        "row":24
+      },
+      {
+        "id": 5,
+        "name": "beko front load washing machine",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h89/hd9/30069929869342/157873_main.jpg?im=Resize=400",
+        "shelf number": 12,
+        "price":3,
+        "row":24
+      }
+    ]
+  }
