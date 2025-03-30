@@ -9,7 +9,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 2,
         "name": "urban bites nyama choma potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/hbd/h0d/12451489939486/15253_Main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -17,7 +17,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 3,
         "name": "urban bites summer salt potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/h3a/h18/12451489611806/15248_Main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -25,7 +25,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 4,
         "name": "urban bites samba salt and vinegar potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/h7c/h11/12451489808414/15251_Main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -33,7 +33,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 5,
         "name": "urban bites party paprika potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/hbb/h10/12451489873950/15252_Main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -41,7 +41,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 6,
         "name": "urban bites funky fruity chutney potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/h7a/h14/12451489742878/15250_Main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -49,7 +49,7 @@
         "row":3
       },
       {
-        "id": 1,
+        "id": 7,
         "name": "tropical heat snacks waves salted potato",
         "image": "https://cdn.mafrservices.com/sys-master-root/h55/hc8/62412186255390/32300_main.jpg?im=Resize=400",
         "shelf number": 14,
@@ -58,7 +58,7 @@
       },
 
       {
-        "id": 2,
+        "id": 8,
         "name": "apple macbook pro 13 laptop",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/0215981/1.jpg?7981",
         "shelf number": 12,
@@ -66,7 +66,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 9,
         "name": "hp refurbished elitebook 846",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/9617603/1.jpg?7649",
         "shelf number": 12,
@@ -74,7 +74,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 10,
         "name": "lenovo thinkpad x250",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/2461951/1.jpg?6205",
         "shelf number": 12,
@@ -82,7 +82,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 11,
         "name": "hp elitebook 820",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/5099351/1.jpg?0353",
         "shelf number": 12,
@@ -90,7 +90,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 12,
         "name": "hp envy x360 ",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/4331562/1.jpg?7871",
         "shelf number": 12,
@@ -98,7 +98,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 13,
         "name": "lenovo ideapad 5",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/3913603/1.jpg?2796",
         "shelf number": 12,
@@ -106,7 +106,7 @@
         "row":12
       },
       {
-        "id": 2,
+        "id": 14,
         "name": "lenovo ideapad 1",
         "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/6703432/1.jpg?1539",
         "shelf number": 6,
@@ -114,7 +114,7 @@
         "row":9
       },
       {
-        "id": 4,
+        "id": 15,
         "name": "amaize maize meal",
         "image": "https://cdn.mafrservices.com/sys-master-root/h26/h58/16872201191454/83430_main.jpg?im=Resize=400",
         "shelf number": 1,
@@ -122,7 +122,7 @@
         "row":26
       },
       {
-        "id": 5,
+        "id": 16,
         "name": "ajab fortified",
         "image": "https://cdn.mafrservices.com/sys-master-root/h22/he8/26798560346142/120048_main.jpg?im=Resize=480",
         "shelf number": 12,
@@ -130,7 +130,7 @@
         "row":24
       },
       {
-        "id": 6,
+        "id": 17,
         "name": "soko home baking flour",
         "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/568482/1.jpg?4501",
         "shelf number": 12,
@@ -138,7 +138,7 @@
         "row":27
       },
       {
-        "id": 7,
+        "id": 18,
         "name": "ajab maize meal flour",
         "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/134158/1742281203/134158_main.jpg?im=Resize=400",
         "shelf number": 34,
@@ -146,7 +146,7 @@
         "row":26
       },
       {
-        "id": 8,
+        "id": 19,
         "name": "peptang tomato sauce",
         "image": "https://cdn.mafrservices.com/sys-master-root/h43/h0e/16871977484318/13918_main.jpg?im=Resize=400",
         "shelf number": 38,
@@ -154,7 +154,7 @@
         "row":22
       },
       {
-        "id": 9,
+        "id": 20,
         "name": "tomato paste",
         "image": "https://www.masterfoods.com.au/sites/g/files/fnmzdf1746/files/migrate-product-files/qmn4zybxd7ziucg6m8ou.png",
         "shelf number": 16,
@@ -162,7 +162,7 @@
         "row":12
       },
       {
-        "id": 11,
+        "id": 21,
         "name": "american garden barbeque sauce",
         "image": "https://d16zmt6hgq1jhj.cloudfront.net/product/13620/American%20Garden%20Barbeque%20Sauce%20510g.jpeg",
         "shelf number": 38,
@@ -171,7 +171,7 @@
       },
      
       {
-        "id": 13,
+        "id": 22,
         "name": "royco spices",
         "image": "https://cdn.mafrservices.com/sys-master-root/h5a/hba/51203853844510/210956_main.jpg?im=Resize=480",
         "shelf number": 19,
@@ -179,7 +179,7 @@
         "row":25
       },
       {
-        "id": 14,
+        "id": 23,
         "name": "orange valencia",
         "image": "https://cdn.mafrservices.com/sys-master-root/haa/hbc/26402221719582/1342_main.jpg?im=Resize=400",
         "shelf number": 17,
@@ -187,7 +187,7 @@
         "row":20
       },
       {
-        "id": 15,
+        "id": 24,
         "name": "green apple ",
         "image": "https://cdn.mafrservices.com/sys-master-root/hd0/hef/16871920140318/1284_main.jpg?im=Resize=400",
         "shelf number": 19,
@@ -195,7 +195,7 @@
         "row":20
       },
       {
-        "id": 16,
+        "id": 25,
         "name": "mika electric kettle",
         "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/238682/1732885204/238682_main.jpg?im=Resize=400",
         "shelf number": 20,
@@ -203,7 +203,7 @@
         "row":28
       },
       {
-        "id": 17,
+        "id": 26,
         "name": "tefal healthy easy fry",
         "image": "https://cdn.mafrservices.com/sys-master-root/h13/h15/49927323025438/193579_main.jpg?im=Resize=400",
         "shelf number": 20,
@@ -211,7 +211,7 @@
         "row":28
       },
       {
-        "id": 18,
+        "id": 27,
         "name": "beko twin tub washing machine",
         "image": "https://cdn.mafrservices.com/sys-master-root/h7d/h29/46269806411806/182748_main.jpg?im=Resize=400",
         "shelf number": 12,
@@ -219,10 +219,26 @@
         "row":24
       },
       {
-        "id": 19,
+        "id": 28,
         "name": "beko front load washing machine",
         "image": "https://cdn.mafrservices.com/sys-master-root/h89/hd9/30069929869342/157873_main.jpg?im=Resize=400",
         "shelf number": 12,
+        "price":3,
+        "row":24
+      },
+      {
+        "id": 29,
+        "name": "disposable palm spoons",
+        "image": "https://greenspoon.co.ke/wp-content/uploads/2023/04/Greenspoon-Kenya-GreenStem-Palm-Spoons-10-Pieces-720x480.jpg",
+        "shelf number": 112,
+        "price":3,
+        "row":24
+      },
+      {
+        "id": 30,
+        "name": "the green thing cutlery set",
+        "image": "https://greenspoon.co.ke/wp-content/uploads/2022/03/greenspoon-Green-thing-set-bag-9337-720x480.jpg",
+        "shelf number": 112,
         "price":3,
         "row":24
       }
