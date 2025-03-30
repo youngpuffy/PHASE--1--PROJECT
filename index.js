@@ -103,7 +103,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const buttonsContainer = document.querySelector('.buttons');
     buttonsContainer.appendChild(viewCartButton);
   }
-  updateViewCartButton(cart);
     
   // Function to create what will be loaded in the cart
   function loadCartPage() {
